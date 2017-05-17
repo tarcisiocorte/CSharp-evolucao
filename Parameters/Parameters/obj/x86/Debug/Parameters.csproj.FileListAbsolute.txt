@@ -1,0 +1,5 @@
+C:\Users\tarcisio\Downloads\cs40-whats-new\materials\cs40-parameters-exercise-files\after\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\tarcisio\Downloads\cs40-whats-new\materials\cs40-parameters-exercise-files\after\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\tarcisio\Downloads\cs40-whats-new\materials\cs40-parameters-exercise-files\after\Parameters\Parameters\obj\x86\Debug\Parameters.csprojResolveAssemblyReference.cache
+C:\Users\tarcisio\Downloads\cs40-whats-new\materials\cs40-parameters-exercise-files\after\Parameters\Parameters\obj\x86\Debug\Parameters.exe
+C:\Users\tarcisio\Downloads\cs40-whats-new\materials\cs40-parameters-exercise-files\after\Parameters\Parameters\obj\x86\Debug\Parameters.pdb
