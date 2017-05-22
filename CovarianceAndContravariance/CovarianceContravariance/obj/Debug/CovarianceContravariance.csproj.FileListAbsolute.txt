@@ -1,0 +1,6 @@
+c:\users\tarcisio\documents\visual studio 2017\Projects\CovarianceContravariance\CovarianceContravariance\bin\Debug\CovarianceContravariance.exe.config
+c:\users\tarcisio\documents\visual studio 2017\Projects\CovarianceContravariance\CovarianceContravariance\bin\Debug\CovarianceContravariance.exe
+c:\users\tarcisio\documents\visual studio 2017\Projects\CovarianceContravariance\CovarianceContravariance\bin\Debug\CovarianceContravariance.pdb
+c:\users\tarcisio\documents\visual studio 2017\Projects\CovarianceContravariance\CovarianceContravariance\obj\Debug\CovarianceContravariance.csprojResolveAssemblyReference.cache
+c:\users\tarcisio\documents\visual studio 2017\Projects\CovarianceContravariance\CovarianceContravariance\obj\Debug\CovarianceContravariance.exe
+c:\users\tarcisio\documents\visual studio 2017\Projects\CovarianceContravariance\CovarianceContravariance\obj\Debug\CovarianceContravariance.pdb
